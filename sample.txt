@@ -1,3 +1,4 @@
 Add 1
-Hello Git!!
-Edited by RB1.0 branch
+Hello Git!
+1: Edited by RB1.0 branch
+2: Edited by Master
